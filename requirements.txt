@@ -1,0 +1,8 @@
+fastapi==0.95.1
+pydantic==1.10.14  # Latest v1.x for langchain compatibility
+huggingface-hub==0.23.4  # Includes InferenceClient
+langchain==0.0.154  # Keeping this for now
+pymongo==4.3.3
+python-dotenv==1.0.0
+uvicorn==0.21.1
+aiohttp==3.8.4

@@ -1,0 +1,37 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+env/
+emailresponse/  # Your Conda env directory if stored locally
+
+# Environment variables
+.env  # Contains sensitive info like API keys and passwords
+
+# Logs
+app.log  # Your application log file
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Dependency caches
+*.egg-info/
+dist/
+build/
+*.egg
+
+# MongoDB local data (if any)
+*.mongodb

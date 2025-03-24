@@ -1,0 +1,90 @@
+2025-03-24 19:48:19,274 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-03-24 21:03:32,733 - src.utils.logging - INFO - Hugging Face client initialized successfully
+2025-03-24 21:05:27,047 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-03-24 21:06:18,156 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-03-24 21:06:18,634 - src.utils.logging - INFO - Hugging Face client initialized successfully
+2025-03-24 21:06:20,393 - src.utils.logging - INFO - Connected to MongoDB Atlas successfully
+2025-03-24 21:06:20,408 - src.utils.logging - INFO - Email check scheduler started
+2025-03-24 21:06:20,408 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:06:20,410 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:06:22,171 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:06:23,261 - src.utils.logging - INFO - Fetching email b'272'
+2025-03-24 21:06:24,011 - src.utils.logging - INFO - Processing email from LinkedIn <updates-noreply@linkedin.com> with subject: sai, Natura has a new post for you
+2025-03-24 21:06:24,011 - src.utils.logging - INFO - Generating AI response
+2025-03-24 21:06:31,713 - src.utils.logging - INFO - AI response generated in 7.7s
+2025-03-24 21:06:32,011 - src.utils.logging - INFO - Attempting to send email to LinkedIn <updates-noreply@linkedin.com>
+2025-03-24 21:06:36,979 - src.utils.logging - INFO - Response sent to LinkedIn <updates-noreply@linkedin.com>
+2025-03-24 21:06:37,059 - src.utils.logging - INFO - Processed email from LinkedIn <updates-noreply@linkedin.com> with ID: 67e17bff827c73718d713e1f
+2025-03-24 21:06:37,398 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:07:37,414 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:07:37,414 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:07:39,046 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:07:39,724 - src.utils.logging - INFO - Fetching email b'273'
+2025-03-24 21:07:40,319 - src.utils.logging - INFO - Processing email from Mail Delivery Subsystem <mailer-daemon@googlemail.com> with subject: Delivery Status Notification (Failure)
+2025-03-24 21:07:40,319 - src.utils.logging - INFO - Generating AI response
+2025-03-24 21:07:43,340 - src.utils.logging - INFO - AI response generated in 3.01s
+2025-03-24 21:07:43,439 - src.utils.logging - INFO - Attempting to send email to Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+2025-03-24 21:07:47,713 - src.utils.logging - INFO - Response sent to Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+2025-03-24 21:07:47,806 - src.utils.logging - INFO - Processed email from Mail Delivery Subsystem <mailer-daemon@googlemail.com> with ID: 67e17c47827c73718d713e20
+2025-03-24 21:07:48,152 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:08:48,166 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:08:48,166 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:08:49,811 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:08:50,485 - src.utils.logging - INFO - Fetching email b'274'
+2025-03-24 21:08:51,000 - src.utils.logging - INFO - Processing email from sai kiran <ksaikiran129@gmail.com> with subject: inquiry about product availability
+2025-03-24 21:08:51,000 - src.utils.logging - INFO - Generating AI response
+2025-03-24 21:08:53,536 - src.utils.logging - INFO - AI response generated in 2.54s
+2025-03-24 21:08:53,624 - src.utils.logging - INFO - Attempting to send email to sai kiran <ksaikiran129@gmail.com>
+2025-03-24 21:08:57,965 - src.utils.logging - INFO - Response sent to sai kiran <ksaikiran129@gmail.com>
+2025-03-24 21:08:58,029 - src.utils.logging - INFO - Processed email from sai kiran <ksaikiran129@gmail.com> with ID: 67e17c8d827c73718d713e21
+2025-03-24 21:08:58,343 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:09:58,340 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:09:58,340 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:10:00,025 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:10:00,710 - src.utils.logging - INFO - No unseen emails found
+2025-03-24 21:10:01,035 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:11:01,034 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:11:01,034 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:11:02,975 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:11:03,681 - src.utils.logging - INFO - No unseen emails found
+2025-03-24 21:11:04,008 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:12:04,027 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:12:04,027 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:12:05,362 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:12:06,060 - src.utils.logging - INFO - No unseen emails found
+2025-03-24 21:12:06,710 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:13:06,737 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:13:06,737 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:13:08,145 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:13:08,830 - src.utils.logging - INFO - No unseen emails found
+2025-03-24 21:13:09,181 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:14:09,191 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:14:09,192 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:14:10,795 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:14:11,468 - src.utils.logging - INFO - No unseen emails found
+2025-03-24 21:14:11,991 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:15:47,881 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-03-24 21:15:48,284 - src.utils.logging - INFO - Hugging Face client initialized successfully
+2025-03-24 21:15:49,804 - src.utils.logging - INFO - Connected to MongoDB Atlas successfully
+2025-03-24 21:15:49,808 - src.utils.logging - INFO - Email check scheduler started
+2025-03-24 21:15:49,808 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:15:49,808 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:15:51,906 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:15:53,186 - src.utils.logging - INFO - No unseen emails found
+2025-03-24 21:15:53,523 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:16:53,538 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:16:53,538 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:16:54,963 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:16:55,792 - src.utils.logging - INFO - No unseen emails found
+2025-03-24 21:16:56,155 - src.utils.logging - INFO - Logged out of IMAP server
+2025-03-24 21:17:56,173 - src.utils.logging - INFO - Starting email check cycle
+2025-03-24 21:17:56,173 - src.utils.logging - INFO - Processing incoming emails
+2025-03-24 21:17:57,738 - src.utils.logging - INFO - Logged into IMAP server successfully
+2025-03-24 21:17:58,465 - src.utils.logging - INFO - Fetching email b'275'
+2025-03-24 21:17:58,977 - src.utils.logging - INFO - Processing email from "K. Sai kiran" <ksaikiran72888@gmail.com> with subject: inquery about product availability
+2025-03-24 21:17:58,978 - src.utils.logging - INFO - Generating AI response
+2025-03-24 21:18:04,885 - src.utils.logging - INFO - AI response generated in 5.91s
+2025-03-24 21:18:04,960 - src.utils.logging - INFO - Attempting to send email to "K. Sai kiran" <ksaikiran72888@gmail.com>
+2025-03-24 21:18:09,519 - src.utils.logging - INFO - Response sent to "K. Sai kiran" <ksaikiran72888@gmail.com>
+2025-03-24 21:18:09,603 - src.utils.logging - INFO - Processed email from "K. Sai kiran" <ksaikiran72888@gmail.com> with ID: 67e17eb4d1ef2e987e441c9d
+2025-03-24 21:18:09,938 - src.utils.logging - INFO - Logged out of IMAP server

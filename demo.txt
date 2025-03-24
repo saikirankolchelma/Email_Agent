@@ -1,0 +1,3 @@
+cd C:\Users\ksaik\OneDrive\Desktop\email_response_agent
+pip uninstall -r requirements.txt -y
+pip install -r requirements.txt --force-reinstall
