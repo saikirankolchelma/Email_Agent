@@ -1,10 +1,4 @@
-markdown
 
-Collapse
-
-Wrap
-
-Copy
 # 🚀 AI-Powered Email Response Agent 🌟
 
 ## ✨ Overview
@@ -56,15 +50,6 @@ python-dotenv==1.0.0
 uvicorn==0.21.1
 aiohttp==3.8.4
 
-text
-
-Collapse
-
-Wrap
-
-Copy
-
----
 
 ## 🚀 Setup
 1. **Clone It**:
@@ -72,43 +57,19 @@ Copy
    git clone <repo-url>
    cd email_response_agent
 Create Your Space: With Conda:
-bash
 
-Collapse
-
-Wrap
-
-Copy
 conda create -n emailresponse python=3.9
 conda activate emailresponse
 Or venv:
-bash
 
-Collapse
-
-Wrap
-
-Copy
 python -m venv venv
 venv\Scripts\activate  # Windows
 source venv/bin/activate  # Linux/Mac
 Load the Arsenal:
-bash
 
-Collapse
-
-Wrap
-
-Copy
 pip install -r requirements.txt
 Set the Controls: Create a .env file:
-text
 
-Collapse
-
-Wrap
-
-Copy
 EMAIL_ADDRESS=your-email@gmail.com
 EMAIL_PASSWORD=your-app-password
 HUGGINGFACE_API_KEY=your-hf-api-key
@@ -116,13 +77,7 @@ COMPANY_NAME=Tech Innovators Inc
 AGENT_NAME=support team
 MONGO_URI=mongodb+srv://<user>:<pass>@<cluster>.mongodb.net/?retryWrites=true&w=majority
 Launch!:
-bash
 
-Collapse
-
-Wrap
-
-Copy
 uvicorn main:app --reload
 Liftoff at http://127.0.0.1:8000! 🌍
 🎉 Usage
@@ -131,45 +86,21 @@ Watches your inbox every 60s, responds with AI flair, and logs it all! ⚡
 
 API Fun
 Root Check:
-text
 
-Collapse
-
-Wrap
-
-Copy
 GET http://127.0.0.1:8000/
 Response: {"status": "Email Response Agent v5.0 with MongoDB Atlas and Feedback is running"} ✅
 Generate a Reply:
-text
 
-Collapse
-
-Wrap
-
-Copy
 POST http://127.0.0.1:8000/generate-response
 Content-Type: application/json
 {"subject": "Test", "email_body": "Hi there!", "sender_email": "test@example.com"}
 Response: {"status": "Response generated successfully", "response_id": "<id>"} 🚀
 Fetch a Response:
-text
 
-Collapse
-
-Wrap
-
-Copy
 GET http://127.0.0.1:8000/responses/<response_id>
 Response: Your stored email data! 📜
 Give Feedback:
-text
 
-Collapse
-
-Wrap
-
-Copy
 POST http://127.0.0.1:8000/feedback
 Content-Type: application/json
 {"response_id": "<id>", "rating": 4, "comment": "Great job!"}
@@ -197,13 +128,6 @@ Copy
 📜 Logs in Action
 See the magic happen in app.log:
 
-text
-
-Collapse
-
-Wrap
-
-Copy
 2025-03-24 21:08:51,000 - src.utils.logging - INFO - Processing email from sai kiran <ksaikiran129@gmail.com> with subject: inquiry about product availability
 2025-03-24 21:08:53,536 - src.utils.logging - INFO - AI response generated in 2.54s
 2025-03-24 21:08:57,965 - src.utils.logging - INFO - Response sent to sai kiran <ksaikiran129@gmail.com>
